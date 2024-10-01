@@ -17,16 +17,22 @@ Install the following libraries using pip:
 
 terminal :pip install pandas numpy matplotlib seaborn scikit-learn
 
-Pandas: For handling and manipulating the sales dataset.
-NumPy: For numerical operations.
-Matplotlib: For plotting graphs to visualize sales trends.
-Seaborn: To generate advanced visualizations.
+Pandas: For handling and manipulating the sales dataset
+
+NumPy: For numerical operations
+
+Matplotlib: For plotting graphs to visualize sales trends
+
+Seaborn: To generate advanced visualizations
+
 Scikit-learn: For any machine learning models you may include.
 
 # Dataset:
 Make sure the sales dataset is available in your working directory. The dataset should include fields like Order ID, Product, Quantity Ordered, Price Each, Order Date, and Purchase Address.
 
 # Steps to Run:
-1.Clone the project repository or download the project files.
-2.Open Jupyter Notebook and navigate to the project directory.
+1.Clone the project repository or download the project files
+
+2.Open Jupyter Notebook and navigate to the project directory
+
 3.Run the individual cells to generate analysis and visualizations.
