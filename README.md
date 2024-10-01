@@ -15,7 +15,7 @@ Jupyter Notebook: A great environment for running and presenting data analysis p
 
 Install the following libraries using pip:
 
-terminal :pip install pandas numpy matplotlib seaborn scikit-learn
+# terminal :- pip install pandas numpy matplotlib seaborn scikit-learn
 
 Pandas: For handling and manipulating the sales dataset
 
