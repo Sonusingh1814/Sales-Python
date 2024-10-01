@@ -36,7 +36,7 @@ Make sure the sales dataset is available in your working directory. The dataset 
 2.Open Jupyter Notebook and navigate to the project directory
 
 
-# We start by cleaning our data. Tasks during this section include:
+## We start by cleaning our data. Tasks during this section include:
 
 Drop NaN values from DataFrame
 
@@ -59,10 +59,16 @@ What product sold the most? Why do you think it sold the most?
 ## To answer these questions we walk through many different pandas & matplotlib methods. They include:
 
 Concatenating multiple csvs together to create a new DataFrame (pd.concat)
+
 Adding columns
+
 Parsing cells as strings to make new columns (.str)
+
 Using the .apply() method
+
 Using groupby to perform aggregate analysis
+
 Plotting bar charts and lines graphs to visualize our results
+
 Labeling our graphs
 
